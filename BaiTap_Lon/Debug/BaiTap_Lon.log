@@ -1,0 +1,31 @@
+﻿  BaiTap_Lon.cpp
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Ellipse.h(17,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Ellipse.h(17,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Ellipse.h(17,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Ellipse.h(17,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Rectangle.h(15,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Rectangle.h(15,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Rectangle.h(14,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Rectangle.h(14,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Triangle.h(16,25): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Triangle.h(16,25): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Triangle.h(16,34): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Triangle.h(16,34): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Triangle.h(16,43): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Triangle.h(16,43): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Triangle.h(16,52): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Triangle.h(16,52): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Triangle.h(16,61): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Triangle.h(16,61): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Triangle.h(16,70): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Triangle.h(16,70): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+  DaGiac.cpp
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\DaGiac.cpp(12,24): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\DaGiac.cpp(13,24): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  Rectangle.h
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Rectangle.h(15,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Rectangle.h(15,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Rectangle.h(14,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Minhvu\source\repos\BaiTap_Lon\BaiTap_Lon\Rectangle.h(14,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  BaiTap_Lon.vcxproj -> C:\Users\Minhvu\source\repos\BaiTap_Lon\Debug\BaiTap_Lon.exe
